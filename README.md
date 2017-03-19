@@ -7,4 +7,4 @@ test heroku app
 
 testing fancy pulls table >:3
 
-test email notifications
+~~test email notifications~~ and again...
